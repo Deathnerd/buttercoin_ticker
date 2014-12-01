@@ -47,5 +47,5 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 
-#config.py
-#config.pyc
+config.py
+config.pyc
